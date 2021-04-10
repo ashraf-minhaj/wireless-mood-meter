@@ -1,3 +1,3 @@
 # wireless-mood-meter
-## [Video Tutorial](https://youtu.be/0yVR4K6Y80I)
+## [Video Tutorial](https://youtu.be/zTWXFoC9q2Y)
 An easy wireless mood meter to show your mood to public.
